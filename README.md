@@ -1,3 +1,5 @@
+Uses Boost 1.61.0, SDL2 and SDL_image library.
+
 SpaceGameEngine README
 
 type make to install.
